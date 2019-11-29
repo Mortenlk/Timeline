@@ -1,3 +1,3 @@
-# This application shows a timeline, and you can edit the table. The table is saved in a mysql database. You can see an example her:
+This application shows a table and a timeline.  You can edit the table live. It is saved in a mysql database. See an example of the app her:
 
 https://evaluation.no/shiny/livetable/
